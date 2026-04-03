@@ -134,12 +134,56 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sic_Bo_Element_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6304365c7ad4074a0239451dc55812
+      internalID: -1949598573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sic_Bo_Element_2_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd484e62a4f9e40e3ba45a2b1690d234
+      internalID: 1629157400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5781b64da87bd49b883397c2228498f0
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sic_Bo_Element_2_0: -1949598573
+      Sic_Bo_Element_2_1: 1629157400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

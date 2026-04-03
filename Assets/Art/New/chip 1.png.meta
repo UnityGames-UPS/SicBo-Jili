@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 0cb4cecb4c7b34452924e5b97ede78d0
+guid: d9a8c19c27556414982d0f79e7df0940
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2538533019411605505
-    second: BTN_0
+      213: -4295821198229627363
+    second: chip 1_0
   - first:
-      213: 1670906578029223075
-    second: BTN_1
+      213: -1173572944465959545
+    second: chip 1_1
+  - first:
+      213: -2769723589011134518
+    second: chip 1_2
+  - first:
+      213: -9216061012301975479
+    second: chip 1_3
+  - first:
+      213: -2655840773262614016
+    second: chip 1_4
+  - first:
+      213: 5466238594249982080
+    second: chip 1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,45 +154,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BTN_0
+      name: chip 1_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 9
-        width: 49
-        height: 61
+        x: 30
+        y: 25
+        width: 221
+        height: 221
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff71f572ba155ccd0800000000000000
-      internalID: -2538533019411605505
+      spriteID: d1e1ee4616d2264c0800000000000000
+      internalID: -4295821198229627363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BTN_1
+      name: chip 1_1
       rect:
         serializedVersion: 2
-        x: 79
-        y: 9
-        width: 49
-        height: 61
+        x: 335
+        y: 25
+        width: 221
+        height: 221
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ac9b4c0ea0403710800000000000000
-      internalID: 1670906578029223075
+      spriteID: 785e817ff91a6bfe0800000000000000
+      internalID: -1173572944465959545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip 1_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 25
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a8f60217ff89d0800000000000000
+      internalID: -2769723589011134518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip 1_3
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 25
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f96d8659f91080800000000000000
+      internalID: -9216061012301975479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip 1_4
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 25
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002eea153ee842bd0800000000000000
+      internalID: -2655840773262614016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip 1_5
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 25
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800dc34a0bfbdb40800000000000000
+      internalID: 5466238594249982080
       vertices: []
       indices: 
       edges: []
@@ -189,7 +289,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ae396e9a53382428b95e55221ef42a28
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -199,8 +299,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BTN_0: -2538533019411605505
-      BTN_1: 1670906578029223075
+      chip 1_0: -4295821198229627363
+      chip 1_1: -1173572944465959545
+      chip 1_2: -2769723589011134518
+      chip 1_3: -9216061012301975479
+      chip 1_4: -2655840773262614016
+      chip 1_5: 5466238594249982080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
