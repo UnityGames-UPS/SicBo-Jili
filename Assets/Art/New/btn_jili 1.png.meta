@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 0cb4cecb4c7b34452924e5b97ede78d0
+guid: f13f9a7af202f4c7e815289d57678f9c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2538533019411605505
-    second: BTN_0
+      213: -1752340666176526975
+    second: btn_jili 1_0
   - first:
-      213: 1670906578029223075
-    second: BTN_1
+      213: 888647184047903828
+    second: btn_jili 1_1
+  - first:
+      213: 7997527877392956038
+    second: btn_jili 1_2
+  - first:
+      213: 7243861236910008539
+    second: btn_jili 1_3
+  - first:
+      213: -2717357211570329529
+    second: btn_jili 1_4
+  - first:
+      213: -7576232852552267798
+    second: btn_jili 1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,45 +154,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BTN_0
+      name: btn_jili 1_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 12
-        width: 68
-        height: 84
+        x: 5
+        y: 0
+        width: 227
+        height: 230
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff71f572ba155ccd0800000000000000
-      internalID: -2538533019411605505
+      spriteID: 185a31bc27f6ea7e0800000000000000
+      internalID: -1752340666176526975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BTN_1
+      name: btn_jili 1_1
       rect:
         serializedVersion: 2
-        x: 110
-        y: 12
-        width: 68
-        height: 84
+        x: 238
+        y: 0
+        width: 228
+        height: 230
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ac9b4c0ea0403710800000000000000
-      internalID: 1670906578029223075
+      spriteID: 45493d7d7eb155c00800000000000000
+      internalID: 888647184047903828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_jili 1_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 227
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7a455b3decfe60800000000000000
+      internalID: 7997527877392956038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_jili 1_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 227
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd82e345a6d578460800000000000000
+      internalID: 7243861236910008539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_jili 1_4
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 227
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748218463020a4ad0800000000000000
+      internalID: -2717357211570329529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_jili 1_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 0
+        width: 223
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74af77c50dbd690800000000000000
+      internalID: -7576232852552267798
       vertices: []
       indices: 
       edges: []
@@ -189,7 +289,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4cafccbb6cd024ed1a636c91fed60188
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -199,8 +299,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BTN_0: -2538533019411605505
-      BTN_1: 1670906578029223075
+      btn_jili 1_0: -1752340666176526975
+      btn_jili 1_1: 888647184047903828
+      btn_jili 1_2: 7997527877392956038
+      btn_jili 1_3: 7243861236910008539
+      btn_jili 1_4: -2717357211570329529
+      btn_jili 1_5: -7576232852552267798
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

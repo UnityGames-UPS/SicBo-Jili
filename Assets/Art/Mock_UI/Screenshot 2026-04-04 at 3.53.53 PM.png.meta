@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 0cb4cecb4c7b34452924e5b97ede78d0
+guid: cae53b13872f24a84aae6d2b116b4b28
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2538533019411605505
-    second: BTN_0
-  - first:
-      213: 1670906578029223075
-    second: BTN_1
+      213: 4491904249221530009
+    second: "Screenshot 2026-04-04 at 3.53.53\u202FPM_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BTN_0
+      name: "Screenshot 2026-04-04 at 3.53.53\u202FPM_0"
       rect:
         serializedVersion: 2
-        x: 11
-        y: 12
-        width: 68
-        height: 84
+        x: 7
+        y: 0
+        width: 558
+        height: 992
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,30 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff71f572ba155ccd0800000000000000
-      internalID: -2538533019411605505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BTN_1
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 12
-        width: 68
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ac9b4c0ea0403710800000000000000
-      internalID: 1670906578029223075
+      spriteID: 991cae39d13765e30800000000000000
+      internalID: 4491904249221530009
       vertices: []
       indices: 
       edges: []
@@ -189,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4cafccbb6cd024ed1a636c91fed60188
+    spriteID: 7c64ae17ce1dc402c9637b8323acab4b
     internalID: 0
     vertices: []
     indices: 
@@ -199,8 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BTN_0: -2538533019411605505
-      BTN_1: 1670906578029223075
+      "Screenshot 2026-04-04 at 3.53.53\u202FPM_0": 4491904249221530009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
